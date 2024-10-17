@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import "./Subscibe.scss"
+import "./Subscribe.scss"
 import "aos/dist/aos.css"
 import Aos from 'aos'
 

@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import "./Staus.scss"
+import "./Status.scss"
 import Aos from 'aos'
 import StatusImg from "../../assets/status.png"
 import "aos/dist/aos.css"
