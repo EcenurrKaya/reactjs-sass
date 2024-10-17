@@ -1,6 +1,7 @@
 import Companies from "./companies/Companies"
 import Hero from "./components/hero/Hero"
 import Navbar from "./components/navbar/Navbar"
+import Pricing from "./components/pricing/Pricing"
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
     <Navbar/>
     <Hero/>
     <Companies/>
+    <Pricing/>
     </>
   )
 }
